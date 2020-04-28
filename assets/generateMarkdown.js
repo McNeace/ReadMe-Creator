@@ -1,8 +1,8 @@
 function generateMarkdown(data) {
-var profilePic = `https://avatars2.githubusercontent.com/u/60047023?v=4`;
-var repoName = "README-generator";
-var badgeHTTPOne = `[![License: ${data.badgeChoice}](https://img.shields.io/badge/License-${data.badgeChoice}-blue.svg)](https://opensource.org/licenses/${data.badgeChoice})`;
-var badgeHTTP = `
+  const profilePic = ``;
+  const repoName = "README-generator";
+  const badgeHTTPOne = `[![License: ${data.badgeChoice}](https://img.shields.io/badge/License-${data.badgeChoice}-blue.svg)](https://opensource.org/licenses/${data.badgeChoice})`;
+  const badgeHTTP = `
  https://img.shields.io/github/license/${data.githubUsername}/${repoName}`;
   return `
 ## Badge 
@@ -34,8 +34,7 @@ var badgeHTTP = `
 ## Badge
   * ${badgeHTTP}
 `
-;
+    ;
 }
 
 module.exports = generateMarkdown;
-  

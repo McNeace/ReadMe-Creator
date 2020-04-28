@@ -70,7 +70,7 @@ const questions = [
       message: "How can other others contribute to the app?"
 
    },
-   
+
 
 
    {
