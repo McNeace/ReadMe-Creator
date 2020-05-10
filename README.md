@@ -2,25 +2,25 @@
 ## Badge 
   [![License: ](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/)
 ## Title
-  * Readme
+  * Read Me generator 
 ## Description
-  * makes a readme
+  * creates a read me
 ## Install
-  * vs code
+  * using vs code 
 ## Table of Contents
-  * none
+  * me 
 ## Usage
-  * answering questions
+  * through vs code by answering questions
 ## License
   * 
 ## Contributions
-  * use it
+  * 0
 ## Tests
-  * some
+  * many
 ## Questions
   * Profile Pic
     - 
-  * email
+  * an email 
   * Username
     - McNeace
   * E-mail Address
